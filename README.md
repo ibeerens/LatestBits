@@ -2,7 +2,7 @@ Overview of the latest VMware, Microsoft, and NVIDIA bits
 
 Last updated: 2022-03-19
 
-| Software | Version | Release Date | Link |
+| **Software** | **Version** | **Release Date** | **Link** |
 | --- | --- | --- | --- |
 | AVD Windows Desktop Client | 1.2.2927 | 2022-03-15 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
 | AVD Windows Desktop Client | 1.2.3000 (Insider) | 2022-03-15 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
