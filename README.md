@@ -1,6 +1,3 @@
-Software | Description | Link  
- 
-
 | Software | Version | Release Date | Link |
 | --- | --- | --- | --- |
 | VMware Tools  | 12 |   |   |
