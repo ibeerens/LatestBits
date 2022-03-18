@@ -1,4 +1,4 @@
-Overview of the latest VMware, Microsoft and NVIDIA bits  
+Overview of the latest VMware, Microsoft and NVIDIA bits
 Last updated: 2022-03-19
 
 | Software | Version | Release Date | Link |
