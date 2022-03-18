@@ -1,4 +1,4 @@
-Overview of the latest VMware, Microsoft, NVIDIA and Tools overview 
+EUC bits overview
 
 Last updated: 2022-03-19
 
@@ -18,3 +18,4 @@ Last updated: 2022-03-19
 | FSLogix | 2105 HF\_01 (2.9.7979.62170) | 2021-11 | https://docs.microsoft.com/en-us/fslogix/whats-new |
 | Windows OS Optimization Tool for VMware Horizon | 1.0 | 2021-12-08 | [VMware Customer Connect](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=CART_OSOT_1_0&productId=1235&rPId=79991) |
 | Remote Display Analyzer 2106 | 2106 | 2021-06 | [RDAnalyzer](https://rdanalyzer.com/downloads/) |
+| Bvckup 2 (Great tool for replicating) | 1.81.22.0 | | [Bvckup download](https://bvckup2.com/)
