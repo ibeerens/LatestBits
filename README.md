@@ -1,4 +1,6 @@
-Overview of the latest VMware, Microsoft and NVIDIA bits
+Overview of the latest VMware, Microsoft, and NVIDIA bits
+
+  
 Last updated: 2022-03-19
 
 | Software | Version | Release Date | Link |
@@ -12,4 +14,4 @@ Last updated: 2022-03-19
 | App Volumes | 2111.1 (4.5.1) | 2022-02-22 | [Download VMware Workspace ONE - VMware Customer Connect](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=AV-451-SUB&productId=734) |
 | NVIDIA vGPU | 14.0 | 2022-02 | [NVIDIA Virtual GPU (vGPU) Software Documentation](https://docs.nvidia.com/grid/index.html) |
 | Unified Access Gateway (UAG) | 2111.2 | 2022-01-25 | [VMware Customer Connect](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=UAG-21112&productId=1229&rPId=83412) |
-
+| FSLogix | 2105 HF\_01 (2.9.7979.62170) | 2021-11 | https://docs.microsoft.com/en-us/fslogix/whats-new |
