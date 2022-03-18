@@ -11,5 +11,5 @@ Last updated: 2022-03-19
 | VMware Tools | 12.0.0 | 2022-03-01 | [Download VMware Tools - VMware Customer Connect](https://customerconnect.vmware.com/en/downloads/info/slug/datacenter_cloud_infrastructure/vmware_tools/12_x) |
 | App Volumes | 2111.1 (4.5.1) | 2022-02-22 | [Download VMware Workspace ONE - VMware Customer Connect](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=AV-451-SUB&productId=734) |
 | NVIDIA vGPU | 14.0 | 2022-02 | [NVIDIA Virtual GPU (vGPU) Software Documentation](https://docs.nvidia.com/grid/index.html) |
-| Unified Access Gateway (UAG) | 2111.2 | 2022-01-25 | https://customerconnect.vmware.com/en/downloads/details?downloadGroup=UAG-21112&productId=1229&rPId=83412 |
+| Unified Access Gateway (UAG) | 2111.2 | 2022-01-25 | [VMware CUstomer Connect]https://customerconnect.vmware.com/en/downloads/details?downloadGroup=UAG-21112&productId=1229&rPId=83412 |
 
