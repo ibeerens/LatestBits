@@ -4,6 +4,10 @@ Last updated: 2022-03-19
 
 | **Software** | **Version** | **Release Date** | **Link** |
 | --- | --- | --- | --- |
+| VMware ESXi 7.0 | Update 3d | 2022-03-29 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=VC70U3D&productId=974&rPId=81436) |
+| Unified Access Gateway | 2203 | 2022-03-29 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/info/slug/desktop_end_user_computing/vmware_unified_access_gateway/22_03)
+| AVD Windows Desktop Client | 1.2.3004 | 2022-03-29 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
+| FSLogix | 2201 (2.9.8111.53415) | 2022-03-29 | [FSLogix What's new](https://docs.microsoft.com/en-us/fslogix/whats-new)
 | AVD Windows Desktop Client | 1.2.2927 | 2022-03-15 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
 | AVD Windows Desktop Client | 1.2.3000 (Insider) | 2022-03-15 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
 | VMware Horizon Client for Windows | 2111.1 | 2022-03-15 | [VMware Horizon Client download](https://customerconnect.vmware.com/downloads/details?downloadGroup=CART23FQ1_WIN_2111_1&productId=1027&rPId=86148)
@@ -19,4 +23,4 @@ Last updated: 2022-03-19
 | FSLogix | 2105 HF\_01 (2.9.7979.62170) | 2021-11 | https://docs.microsoft.com/en-us/fslogix/whats-new |
 | Windows OS Optimization Tool for VMware Horizon | 1.0 | 2021-12-08 | [VMware Customer Connect](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=CART_OSOT_1_0&productId=1235&rPId=79991) |
 | Remote Display Analyzer 2106 | 2106 | 2021-06 | [RDAnalyzer](https://rdanalyzer.com/downloads/) |
-| Bvckup 2 (Great tool for replicating) | 1.81.22.0 | | [Bvckup download](https://bvckup2.com/)
+| Bvckup 2 (Great tool for replicating FSLogix containers) | 1.81.22.0 | | [Bvckup download](https://bvckup2.com/)
