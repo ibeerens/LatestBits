@@ -1,7 +1,5 @@
 Software overview
 
-Last updated: 2022-03-19
-
 | **Software** | **Version** | **Release Date** | **Link** |
 | --- | --- | --- | --- |
 | VMware ESXi 7.0 | Update 3d | 2022-03-29 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=VC70U3D&productId=974&rPId=81436) |
