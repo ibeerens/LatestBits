@@ -5,6 +5,7 @@ Software overview
 | VMware ESXi 7.0 | Update 3d | 2022-03-29 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=VC70U3D&productId=974&rPId=81436) |
 | Unified Access Gateway | 2203 | 2022-03-29 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/info/slug/desktop_end_user_computing/vmware_unified_access_gateway/22_03)
 | AVD Windows Desktop Client | 1.2.3004 | 2022-03-29 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
+| Imager VMware fling | 1.0 | 2022-03-28 | [VMware Flings](https://flings.vmware.com/imager) |
 | FSLogix | 2201 (2.9.8111.53415) | 2022-03-29 | [FSLogix What's new](https://docs.microsoft.com/en-us/fslogix/whats-new)
 | AVD Windows Desktop Client | 1.2.2927 | 2022-03-15 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
 | AVD Windows Desktop Client | 1.2.3000 (Insider) | 2022-03-15 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
