@@ -1,4 +1,4 @@
-Software overview
+The latest software versions overview (VMware, Microsoft, NVIDIA and some utilities)
 
 | **Software** | **Version** | **Release Date** | **Link** |
 | --- | --- | --- | --- |
