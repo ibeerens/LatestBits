@@ -2,6 +2,12 @@ Software overview
 
 | **Software** | **Version** | **Release Date** | **Link** |
 | --- | --- | --- | --- |
+| VMware Horizon Client for Windows | 2203 | 2022-04-05 | [Download Product](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=CART23FQ1_WIN_2203&productId=1027&rPId=87547) |
+| Windows OS Optimization Tool for Horizon | 2203 | 2022-04-05 | [VMware Customer Connect](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=CART_OSOT_1_1&productId=1235&rPId=79991) |
+| VMware Horizon 8 | 2203 | 2022-04-05 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/info/slug/desktop_end_user_computing/vmware_horizon/2203) |
+| VMwae App Volumes 4 | 2203 (4.6) | 2022-04-05 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=AV-460-NOEDITION&productId=1269&rPId=86772) |
+| VMware Dynamic Environment Manager | 2203 | 2022-04-05 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=DEM-105-RENTERPRISE&productId=1269&rPId=86772) |
+| VMware ThinApp | 2203 | 2022-04-05 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=THIN-2203&productId=1269&rPId=86770) |
 | VMware ESXi 7.0 | Update 3d | 2022-03-29 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=VC70U3D&productId=974&rPId=81436) |
 | Unified Access Gateway | 2203 | 2022-03-29 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/info/slug/desktop_end_user_computing/vmware_unified_access_gateway/22_03)
 | AVD Windows Desktop Client | 1.2.3004 | 2022-03-29 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
@@ -12,6 +18,7 @@ Software overview
 | VMware Horizon Client for Windows | 2111.1 | 2022-03-15 | [VMware Horizon Client download](https://customerconnect.vmware.com/downloads/details?downloadGroup=CART23FQ1_WIN_2111_1&productId=1027&rPId=86148)
 | VMware Horizon | 7.13.2 | 2022-03-10 | [VMware Horizon 7 - VMware Customer Connect](https://customerconnect.vmware.com/downloads/info/slug/desktop_end_user_computing/vmware_horizon/7_13) |
 | VMware Horizon Client | 5.5.4 | 2022-03-10 | [Download VMware Horizon Clients - VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=CART23FQ1_WIN_554&productId=863&rPId=86113) |
+| VMware Workstation Pro for Windows | 16.2.3 | 2022-03-10 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=WKST-1623-WIN-NEW&productId=1269&rPId=86771) |
 | Connection Experience Indicator | 1.3 | 2022-03-09 | [Download](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/) |
 | VMware Horizon 2111 | 8.4.0 build 19446835 | 2022-03-08 | [VMware Horizon 2111 - VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=HZ-2111-STD&productId=1227&rPId=85179) |
 | VMware Tools | 12.0.0 | 2022-03-01 | [Download VMware Tools - VMware Customer Connect](https://customerconnect.vmware.com/en/downloads/info/slug/datacenter_cloud_infrastructure/vmware_tools/12_x) |
