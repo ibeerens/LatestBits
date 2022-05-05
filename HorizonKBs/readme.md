@@ -2,6 +2,8 @@ VMware Horizon KB overview
 
 | **Description** | **KB** | **Link** |
 | --- | --- | --- |
+| VMware Horizon Subscription Feature comparison | [VMware KBs](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/horizon/vmw-horizon-subscription-feature-comparison.pdf) | 
+| MS Teams Optimization Feature Compatibility Matrix for Horizon 7 and Horizon 8 Recent Releases | [VMware KBs](https://kb.vmware.com/s/article/86475?lang=en_US)
 | Build numbers and versions of VMware Horizon | KB2143853 | [VMware KBs](https://kb.vmware.com/s/article/2143853?lang=en_US) |
 | Antivirus executable exclusion list for VMware Horizon View | KB2082045 | [VMware KBs](https://kb.vmware.com/s/article/2082045?lang=en_US) |
 | Supported Windows 10 and Windows 11 Guest Operating Systems for Horizon Agent and Remote Experience, for Horizon 8 2006 and Later | KB78714 | [VMware KBs](https://kb.vmware.com/s/article/78714?lang=en_US) |
