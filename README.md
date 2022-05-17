@@ -2,6 +2,8 @@ The latest software versions overview (VMware, Microsoft, NVIDIA and some utilit
 
 | **Software** | **Version** | **Release Date** | **Link** |
 | --- | --- | --- | --- |
+| NVIDIA vGPU | 13.3 | 2022-05-12 | [NVIDIA Update](https://docs.nvidia.com/grid/13.0/index.html) |
+| NVIDIA vGPU | 11.8 | 2022-05-11 | [NVIDIA Update](https://docs.nvidia.com/grid/11.0/index.html) |
 | AVD Windows Desktop Client | 1.2.3128 | 2022-05-03 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
 | Azure Terrafy | | 2022-04-13| [link](https://github.com/Azure/aztfy) |
 | VMware Horizon Client for Windows | 2203 | 2022-04-05 | [Download Product](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=CART23FQ1_WIN_2203&productId=1027&rPId=87547) |
