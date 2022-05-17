@@ -15,7 +15,6 @@ The above mentioned command will only install Windows updates. If you want to up
 
 Add-WUServiceManager -MicrosoftUpdate
 
-Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot
 
 *Windowss Update command*
 wuauclt /detectnow /updatenow
