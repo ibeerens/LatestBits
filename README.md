@@ -2,6 +2,9 @@ The latest software versions overview (VMware, Microsoft, NVIDIA and some utilit
 
 | **Software** | **Version** | **Release Date** | **Link** |
 | --- | --- | --- | --- |
+| VMware vCenter Server | 7.0U3f | 2022-12-07 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=VC70U3F&productId=974&rPId=90009)
+| AVD Windows Desktop Client | 1.2.3317 | 2022-12-07 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
+| VMware App Volumes 4 | 2203.1 | 2022-07-07 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=AV-461-NOEDITION&productId=1227&rPId=89311) |
 | NVIDIA vGPU | 13.3 | 2022-05-12 | [NVIDIA Update](https://docs.nvidia.com/grid/13.0/index.html) |
 | NVIDIA vGPU | 11.8 | 2022-05-11 | [NVIDIA Update](https://docs.nvidia.com/grid/11.0/index.html) |
 | AVD Windows Desktop Client | 1.2.3128 | 2022-05-03 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
