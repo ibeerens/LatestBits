@@ -1,6 +1,6 @@
 The latest software versions overview (VMware, Microsoft, NVIDIA and some utilities)
 
-| **Software** | **Version** | **Release Date** | **Link** | *Remark** |
+| **Software** | **Version** | **Release Date** | **Link** | **Remark** |
 | --- | --- | --- | --- | --- |
 | VMware App Volumes 4 |  2303 (4.10) | 2023-03-31 | [VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=AV-4100-STD&productId=961) |
 | VMware Dynamic Environment Manager (DEM) | 2303 | 2023-03-31 | [VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=DEM-109-ENTERPRISE&productId=1410) |
@@ -9,6 +9,7 @@ The latest software versions overview (VMware, Microsoft, NVIDIA and some utilit
 | NVIDIA vGPU | 15.2 | 2023-03-31 | [NVIDIA](https://docs.nvidia.com/grid/15.0/index.html) | Support for Citrix Virtual Apps and Desktops version 7 2303|
 | NVIDIA vGPU | 13.7 | 2023-03-31 | [NVIDIA](https://docs.nvidia.com/grid/13.0/whats-new-vgpu/index.html#updates-release-update-7) | Support for Windows 10/11 22H2 ,Citrix Virtual Apps and Desktops version 7 2303 and Horizon 2212 (8.8) LTSB branch|
 | NVIDIA vGPU | 11.12 | 2023-03-31 | [NVIDIA](https://docs.nvidia.com/grid/11.0/whats-new-vgpu/index.html#updates-release-update-12) | Support for Windows 10/11 22H2 and Horizon 2212 (8.8) LTSB branch |
+| VMware vCenter Server | 7.0U3l | 2023-03-30 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=VC70U3L&productId=1412&rPId=102747) |
 | VMware vCenter Server | 7.0U3f | 2022-12-07 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=VC70U3F&productId=974&rPId=90009) |
 | AVD Windows Desktop Client | 1.2.3317 | 2022-12-07 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
 | VMware App Volumes 4 | 2203.1 | 2022-07-07 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=AV-461-NOEDITION&productId=1227&rPId=89311) |
