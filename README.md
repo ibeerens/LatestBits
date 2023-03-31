@@ -4,12 +4,13 @@ The latest software versions overview (VMware, Microsoft, NVIDIA and some utilit
 | --- | --- | --- | --- | --- |
 | VMware App Volumes 4 |  2303 (4.10) | 2023-03-31 | [VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=AV-4100-STD&productId=961) |
 | VMware Dynamic Environment Manager (DEM) | 2303 | 2023-03-31 | [VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=DEM-109-ENTERPRISE&productId=1410) |
-| VMware OS Optimalization Tool (OSOT) | 1.2.0 | 2023-03-31 |[VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=CART_OSOT_1_2&productId=1235&rPId=103015) | support for Windows 11 22H2 and MDT plugin optimizations |
+| VMware OS Optimalization Tool (OSOT) | 1.2.0 | 2023-03-31 |[VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=CART_OSOT_1_2&productId=1235&rPId=103015) | Support for Windows 11 22H2 and MDT plugin optimizations |
 | VMware Horizon | 2303 | 2023-03-31 | [VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=HZ-2303-ENT&productId=1412&rPId=102747) | Support for NVIDIA L40 and L4 GPUs |
 | NVIDIA vGPU | 15.2 | 2023-03-31 | [NVIDIA](https://docs.nvidia.com/grid/15.0/index.html) | Support for Citrix Virtual Apps and Desktops version 7 2303|
 | NVIDIA vGPU | 13.7 | 2023-03-31 | [NVIDIA](https://docs.nvidia.com/grid/13.0/whats-new-vgpu/index.html#updates-release-update-7) | Support for Windows 10/11 22H2 ,Citrix Virtual Apps and Desktops version 7 2303 and Horizon 2212 (8.8) LTSB branch|
 | NVIDIA vGPU | 11.12 | 2023-03-31 | [NVIDIA](https://docs.nvidia.com/grid/11.0/whats-new-vgpu/index.html#updates-release-update-12) | Support for Windows 10/11 22H2 and Horizon 2212 (8.8) LTSB branch |
 | VMware vCenter Server | 7.0U3l | 2023-03-30 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=VC70U3L&productId=1412&rPId=102747) |
+| AVD Windows Desktop Client | 1.2.4066 | [Microsoft](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-windows) |
 | VMware ThinApp | 2212 | 2023-01-12 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=THIN-2212&productId=1412&rPId=102747) |
 | VMware vCenter Server | 7.0U3f | 2022-12-07 | [VMware Customer Connect](https://customerconnect.vmware.com/downloads/details?downloadGroup=VC70U3F&productId=974&rPId=90009) |
 | AVD Windows Desktop Client | 1.2.3317 | 2022-12-07 | [What's new in the Windows Desktop client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew) |
