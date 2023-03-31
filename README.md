@@ -2,6 +2,7 @@ The latest software versions overview (VMware, Microsoft, NVIDIA and some utilit
 
 | **Software** | **Version** | **Release Date** | **Link** | *Remark** |
 | --- | --- | --- | --- | --- |
+| VMware App Volumes 4 |  2303 (4.10) | 2023-03-31 | [VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=AV-4100-STD&productId=961) |
 | VMware Dynamic Environment Manager (DEM) | 2303 | 2023-03-31 | [VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=DEM-109-ENTERPRISE&productId=1410) |
 | VMware OS Optimalization Tool (OSOT) | 1.2.0 | 2023-03-31 |[VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=CART_OSOT_1_2&productId=1235&rPId=103015) | support for Windows 11 22H2 and MDT plugin optimizations |
 | VMware Horizon | 2303 | 2023-03-31 | [VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=HZ-2303-ENT&productId=1412&rPId=102747) | Support for NVIDIA L40 and L4 GPUs |
