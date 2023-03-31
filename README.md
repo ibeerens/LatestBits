@@ -3,7 +3,7 @@ The latest software versions overview (VMware, Microsoft, NVIDIA and some utilit
 | **Software** | **Version** | **Release Date** | **Link** | *Remark** |
 | --- | --- | --- | --- | --- |
 | VMware OS Optimalization Tool (OSOT) | 1.2.0 | 2023-03-31 |[VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=CART_OSOT_1_2&productId=1235&rPId=103015) | support for Windows 11 22H2 and MDT plugin optimizations |
-| VMware Horizon | 2303 | 2023-03-31 | [VMware]() |
+| VMware Horizon | 2303 | 2023-03-31 | [VMware](https://customerconnect.vmware.com/downloads/details?downloadGroup=HZ-2303-ENT&productId=1412&rPId=102747) | Support for NVIDIA L40 and L4 GPUs |
 | NVIDIA vGPU | 15.2 | 2023-03-31 | [NVIDIA](https://docs.nvidia.com/grid/15.0/index.html) | Support for Citrix Virtual Apps and Desktops version 7 2303|
 | NVIDIA vGPU | 13.7 | 2023-03-31 | [NVIDIA](https://docs.nvidia.com/grid/13.0/whats-new-vgpu/index.html#updates-release-update-7) | Support for Windows 10/11 22H2 ,Citrix Virtual Apps and Desktops version 7 2303 and Horizon 2212 (8.8) LTSB branch|
 | NVIDIA vGPU | 11.12 | 2023-03-31 | [NVIDIA](https://docs.nvidia.com/grid/11.0/whats-new-vgpu/index.html#updates-release-update-12) | Support for Windows 10/11 22H2 and Horizon 2212 (8.8) LTSB branch |
